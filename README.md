@@ -1,6 +1,5 @@
 ## 🧑🏻‍💻 Who am I?
 - I'm working on a personal project using Spring Boot and JPA!
-- I aim to review what I learned today on my tech blog at least once a week!
 - While I'm not particularly outgoing, I find it easy to gather for work!
 - I crave learning something new! It makes my heart beat faster!
 
